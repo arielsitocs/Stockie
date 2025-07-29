@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  --main-skyblue: #38B6FF;
+  --main-bg: #F8F8F8;
+  --main-gray: #808080;
+  --light-green: #C5FFCE;
+  --light-red: #FFC0C0;
+  --font-alata: var(--font-alata);
+  --font-jua: var(--font-jua);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
